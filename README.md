@@ -5,8 +5,8 @@ Run the code and then create the app object by `App2048(n)` where `n` is the siz
 
 Large square of 4x4 example: 
 
-<img src="https://github.com/anbarief/2048matplotlib/blob/main/2048_matplotlib_im1_4times4.png" width="100" height="100" />
+<img src="https://github.com/anbarief/2048matplotlib/blob/main/2048_matplotlib_im1_4times4.png" width="150" height="100" />
 
 Large square of 6x6 example: 
 
-<img src="https://github.com/anbarief/2048matplotlib/blob/main/2048_matplotlib_im2.png" width="100" height="100" />
+<img src="https://github.com/anbarief/2048matplotlib/blob/main/2048_matplotlib_im2.png" width="150" height="100" />
